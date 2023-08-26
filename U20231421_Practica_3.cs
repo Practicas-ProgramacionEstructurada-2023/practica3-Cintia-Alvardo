@@ -43,7 +43,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("\nLa catidad de pares de zapatos a comprar es: " + Cantidad_Zapato);
         Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine("\nEl precio a pagar por los pares de zapatos es: " + Precio);
+        Console.WriteLine("\nEl precio a pagar por par de zapatos es: " + Precio);
         Console.ForegroundColor = ConsoleColor.Magenta;
         Console.BackgroundColor = ConsoleColor.Yellow;
         Console.WriteLine("\nTotal a pagar por la compra es: " + Total);

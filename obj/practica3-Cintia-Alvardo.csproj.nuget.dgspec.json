@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CICLO 2\\Programación Estructurada\\Practica\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo.csproj": {}
+    "D:\\CICLO 2\\Programación Estructurada\\Practica\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo.csproj": {}
   },
   "projects": {
-    "D:\\CICLO 2\\Programación Estructurada\\Practica\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo.csproj": {
+    "D:\\CICLO 2\\Programación Estructurada\\Practica\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CICLO 2\\Programación Estructurada\\Practica\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo.csproj",
+        "projectUniqueName": "D:\\CICLO 2\\Programación Estructurada\\Practica\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo.csproj",
         "projectName": "practica3-Cintia-Alvardo",
-        "projectPath": "D:\\CICLO 2\\Programación Estructurada\\Practica\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo.csproj",
+        "projectPath": "D:\\CICLO 2\\Programación Estructurada\\Practica\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "D:\\CICLO 2\\Programación Estructurada\\Practica\\practica3-Cintia-Alvardo\\obj\\",
+        "outputPath": "D:\\CICLO 2\\Programación Estructurada\\Practica\\practica3-Cintia-Alvardo\\practica3-Cintia-Alvardo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
